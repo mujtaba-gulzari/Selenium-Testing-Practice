@@ -1,3 +1,5 @@
+#This is a practice test automation for a web blog called "Selenium Blog".
+#I have followed a paid course to learn Selenium test automation
 require "selenium-webdriver"
 require "rspec"
 require_relative "signup_page.rb"
