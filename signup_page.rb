@@ -6,6 +6,7 @@ EMAIL_FIELD = {id: 'user_email'}
 PASSWORD_FIELD = {id: 'user_password'}
 SUBMIT_BUTTON = {id: 'submit'}
 
+
 attr_reader :driver
 
 #class method
